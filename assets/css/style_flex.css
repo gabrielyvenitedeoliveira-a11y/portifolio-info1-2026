@@ -1,5 +1,7 @@
 .container {
   display: flex;
+  height: 400px;
+  width: 800px;
   justify-content: space-between;
   flex-direction: row;
   background-color: gray;
